@@ -4,7 +4,7 @@
   "NITRO_METADATA_DESCRIPTION": "สนับสนุนการพัฒนา Discord และรับฟีเจอร์ที่น่าหลงใหลด้วยการสมัครสมาชิก Nitro - สัญลักษณ์ประจำตัวแบบเคลื่อนไหว, อัปโหลดไฟล์ขนาดใหญ่, ป้ายโปรไฟล์ Nitro, และใช้อีโมจิที่คุณกำหนดเองได้ทุกที่",
   "NITRO_NITRO": "Nitro",
   "NITRO_LIGHTRO": "Lightro",
-  "NITRO_PRICE_MONTHLY": "{price} ต่อเดือน",
+  "NITRO_PRICE_MONTHLY": "{price} ต่อเดือน", 'l'
   "NITRO_PRICE_ANNUALLY": "{price} ต่อปี",
   "NITRO_ANNUAL_SUBSCRIPTION_SAVINGS": "ฟรี 2 เดือน",
   "NITRO_HERO_SUBHEADING": "สิทธิ์แบบอันลิมิเต็ดเพื่อเข้าถึงไลบรารีเกมจำนวนมากที่ได้รับคำชมว่าสุดยอดซึ่งเราไม่อยากให้คุณหรือเพื่อนของคุณพลาด",
