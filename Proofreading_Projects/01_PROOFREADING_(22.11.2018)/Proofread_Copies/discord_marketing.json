@@ -702,9 +702,14 @@
   "DOWNLOAD_GET_PUBLIC_TEST_BUILD_PROMPT": "Living on the edge? Get the **Public Test Build**.",
   "DOWNLOAD_GET_STABLE_BUILD": "Get the stable build {arrow}",
   "DOWNLOAD_GET_PUBLIC_TEST_BUILD": "Get the Public Test Build {arrow}",
+
+
+
   "NITRO_METADATA_TITLE": "Nitro",
   "NITRO_METADATA_OGTITLE": "Support Discord's development. Get boosted.",
   "NITRO_METADATA_DESCRIPTION": "Support Discord's development and get sweet features with a Nitro subscription - animated avatars, larger file uploads, nitro profile badge, and use your custom emoji anywhere.",
+
+
   "NITRO_NITRO": "Nitro",
   "NITRO_NITRO_CLASSIC": "Nitro Classic",
   "NITRO_PRICE_MONTHLY": "{price} / Month",
@@ -729,6 +734,8 @@
   "NITRO_PERKS_REP_SUBHEADING": "Display how long you’ve supported Discord with a special profile badge.",
   "NITRO_READY_TO_PLAY_HEADING": "Doitdoitdoitdoitdoitdoit",
   "NITRO_NITRO_CLASSIC_SUBHEADING": "Don't want games? Support Discord and get enhanced chat perks with Nitro Classic.",
+
+
   "PRIVACY_METADATA_TITLE": "Privacy Policy",
   "PRIVACY_METADATA_OGTITLE": "Discord Privacy Policy",
   "PRIVACY_METADATA_DESCRIPTION": "*whispers* Shhhh be quiet. This is our Privacy Policy. We take your privacy super seriously. So read and learn!",
@@ -741,11 +748,16 @@
   "TERMS_METADATA_TITLE": "Terms of Service",
   "TERMS_METADATA_OGTITLE": "Discord Terms of Service",
   "TERMS_METADATA_DESCRIPTION": "This is the Discord ToS meta description. Wow, helpful meta description Discord. Thanks!",
+
+
   "HYPESQUADRIOT_FORM_SERVER_TITLE": "What's your Discord server called?",
   "HYPESQUADRIOT_FORM_SERVER_ID_TITLE": "Club Server",
   "HYPESQUADRIOT_FORM_EVENT_ABOUT_1_TITLE": "Now, let's learn about your club",
   "HYPESQUADRIOT_FORM_EVENT_LINKS_TITLE": "Include any of the following links for your club",
   "HYPESQUADRIOT_FORM_EVENT_NAME_TITLE": "What's your club called?",
+
+
+  
   "HYPESQUADRIOT_NOT_AUTHENTICATED": "You need to be logged in to join HypeSquad. Go [log in]({loginUrl}) and then come back!",
   "HYPESQUADRIOT_NO_GUILDS": "You don't have any guilds associated with this account. You'll need at least one to join HypeSquad.",
   "HYPESQUADRIOT_GUILD_FETCH_ERROR": "Oh no! There was an error fetching your guilds. If the problem persists, please reach out to us at [{emailAddress}]({emailLink}).",
